@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm <ins>Surya</ins> Kiran , Research Fellow at [Deutsches Elektronen-Synchrotron](https://www.desy.de/) and [Universty of Federal Armed Forces](https://www.hsu-hh.de/en/), Hamburg, Germany. I am a multidisciplinary engineer/scientist with background in Aerospace/Mechanical/Marine Engineering. My experience includes working with high fidelity CFD simulations and modeling (finite volumes method) and also lagrangian based methods such as Smoothed Particle Hydrodynamics (SPH). 
+Hi! I'm <ins>Surya</ins> Kiran , Research Fellow at [Deutsches Elektronen-Synchrotron](https://www.desy.de/) and [Universty of Federal Armed Forces](https://www.hsu-hh.de/en/), Hamburg, Germany. I am a multidisciplinary engineer/scientist with background in Aerospace/Mechanical/Marine Engineering. My experience includes working with high fidelity CFD simulations and modeling (finite volumes method) and also lagrangian based methods such as Smoothed Particle Hydrodynamics (SPH). My current research focuses on developing advanced simulation methodologies to resolve fluid flows having wide range of flow states (e.g., continuum and free molecular flows) and its interation with nano particles. This involves bundling different multiscale and multiphysics simulation methodologies supported by high-performance computing and data science methods. 
 
-My major focus is on Open-source CFD (OpenFOAM), Discrete flow methods (DSMC and SPH), Computational Physics, Multiphase flows, Turbulence Modelling, High Performance Computing.
+I firmly believe in open science and constantly working to intergrate opensource solutions in to my workflow. I created this website to communicate science and research. 
+
+⚠️ ⚠️ ⚠️ This site is under construction and I am still working on it, but it is already online. 
 
 
 
-For more info
+Contact
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+One can contact me either by linkedin or twitter atm...
