@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, Welcome to my website 👋"
+title: "Welcome to my website 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Surya Kiran Peravali, currently working as a Research Fellow at Deutsches Elektronen-Synchrtron [DESY](https://www.desy.de/) and Universty of Federal Armed Forces [Unibw](https://www.hsu-hh.de/en/), Germany. My major focus is on Open-source CFD (OpenFOAM), Discrete flow methods (DSMC and SPH), Computational Physics, Multiphase flows, Turbulence Modelling, High Performance Computing.
+Hi! I'm <ins>Surya</ins> Kiran , Research Fellow at [Deutsches Elektronen-Synchrotron](https://www.desy.de/) and [Universty of Federal Armed Forces](https://www.hsu-hh.de/en/), Hamburg, Germany. I am a multidisciplinary engineer/scientist with background in Aerospace/Mechanical/Marine Engineering. My experience includes working with high fidelity CFD simulations and modeling (finite volumes method) and also lagrangian based methods such as Smoothed Particle Hydrodynamics (SPH). 
+
+My major focus is on Open-source CFD (OpenFOAM), Discrete flow methods (DSMC and SPH), Computational Physics, Multiphase flows, Turbulence Modelling, High Performance Computing.
 
 
 
