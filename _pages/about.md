@@ -15,7 +15,10 @@ I firmly believe in open science and constantly working to intergrate opensource
 ⚠️ ⚠️ ⚠️ This site is under construction and I am still working on it, but it is already online. 
 
 
+What's new
+------
+
 
 Contact
 ------
-One can contact me either by linkedin or twitter atm...
+One can contact me either through linkedin or twitter at the moment.
