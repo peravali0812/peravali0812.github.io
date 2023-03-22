@@ -21,4 +21,13 @@ What's new
 
 Contact
 ------
+Surya Kiran Peravali,
+Research Fellow,
+Center for Free-Electron Laser Science (CFEL)
+Deutsches Elektronen-Synchrotron DESY
+Notkestrasse 85 (building 99, room O3.005)
+22607 Hamburg
+Germany
+
+
 One can contact me either through linkedin or twitter at the moment.
