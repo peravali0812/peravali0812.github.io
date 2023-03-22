@@ -15,19 +15,15 @@ I firmly believe in open science and constantly working to intergrate opensource
 ⚠️ ⚠️ ⚠️ This site is under construction and I am still working on it, but it is already online. 
 
 
-What's new
+NEWS
 ------
 
 
 Contact
 ------
-Surya Kiran Peravali,
-Research Fellow,
-Center for Free-Electron Laser Science (CFEL)
-Deutsches Elektronen-Synchrotron DESY
-Notkestrasse 85 (building 99, room O3.005)
-22607 Hamburg
-Germany
+#### Surya Kiran Peravali
 
+<address>
+  Center for Free-Electron Laser Science (CFEL)<br /> Deutsches Elektronen-Synchrotron DESY<br /> Notkestrasse 85 (building 99, room O3.005)<br/>22607 Hamburg, Germany
+</address>
 
-One can contact me either through linkedin or twitter at the moment.
