@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Research"
+permalink: /Research/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Research
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
