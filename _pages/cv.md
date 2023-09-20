@@ -81,6 +81,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards/Scholarships/Fellowships
+======
+* Helmhotlz, DASHH - 2021
+* IBB - 2019
+* EU Marie-Curie - 2016
+* Rolf Sorman's fund (Research during Masters degree)- 2015
+* IPOET scholarship (Master degree)- 2013
+* NASA Environmentally Responsible Aviation Project (runner up)- 2011
   
 Service and leadership
 ======
