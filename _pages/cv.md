@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Aerospace Engineering, SRM University, Chennai, India, 2012
+* M.S. in Mechanical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2015
+* Ph.D in Fluid Dynamics and High Performance Computing, Helmut-Schmidt University/ University of Federal Armed Forces, Hamburg Germany, ....
 
 Work experience
 ======
