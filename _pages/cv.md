@@ -59,10 +59,12 @@ Skills
   * Discrete flow - SPARTA (DSMC), LAMPPS (MD)
   * Finite element analysis - Comsol, ABACUS, ANSYS
   * pre/post processing - Paraview, ICEM-CFD, ANSA, Meshlab, Blender
-*Other
+* Other
   * Operating system: Windows, Linux
   * Doc: MS/Libre office, Latex
- 
+
+Projects
+======
 
 Publications
 ======
