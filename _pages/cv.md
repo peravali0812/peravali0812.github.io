@@ -13,17 +13,31 @@ Education
 ======
 * B.Tech. in Aerospace Engineering, SRM University, Chennai, India, 2012
 * M.S. in Mechanical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2015
-* Ph.D in Fluid Dynamics and High Performance Computing, Helmut-Schmidt University/ University of Federal Armed Forces, Hamburg Germany, ....
+* Ph.D in Fluid Dynamics and High Performance Computing, Helmut-Schmidt University/ University of Federal Armed Forces, Hamburg Germany,
 
 Work experience
 ======
 * 2021 - Present: Research Fellow (DASHH)
-  * DESY, Hamburg
+  * DESY, Hamburg, Germany
   * Duties included: Developing advanced simulation methodologies for optimising aerosol injection systems used for single-particle diffractive imaging. 
 
 * 2019 - 2021: Research Associate 
-  * University of Applied Sciences, Berlin
+  * University of Applied Sciences, Berlin, Germany
   * Duties included: Numerical investigation of blood flow around a bio-medical probe and prediction of endothelial cell accumulation on the probe using SPH and DEM with stochastic cell wall adhesion dynamics model.
+ 
+* 2016 - 2018: Research Fellow (Marie-Curie)
+  * International institute of cavitation research (RR-UTC), University of London, UK 
+  * Duties included:  Developing a flash boiling-induced atomization model for conditions relevant to cryogenic fluids injected in rocket engines and to implement the model to the common LES code and perform simulation of the spray for different conditions
+ 
+* 2015 - 2016: Master Thesis/ Researcher
+  * SSPA Sweden AB, Gothenburg, Sweden
+  * Duties Included:  Open-source mesh development and detailed CFD analysis of unconventional marine propellers (model and full scale) using OpenFOAM for investigating the ITTC 78 scaling method.
+ 
+* 2012 - 2013: GET
+  * Larsen and Toubro, Chennai, India
+  * Graduate engineer 
+ 
+* Research interships.... drdo volvo....
   
 Skills
 ======
@@ -33,6 +47,9 @@ Skills
   * Python
   * Julia
   * FORTRAN
+  * bash
+  * GIT
+  * Slurm
 * CAD
   * CATIA
   * FreeCAD
@@ -42,6 +59,9 @@ Skills
   * Discrete flow - SPARTA (DSMC), LAMPPS (MD)
   * Finite element analysis - Comsol, ABACUS, ANSYS
   * pre/post processing - Paraview, ICEM-CFD, ANSA, Meshlab, Blender
+*Other
+  * Operating system: Windows, Linux
+  * Doc: MS/Libre office, Latex
  
 
 Publications
