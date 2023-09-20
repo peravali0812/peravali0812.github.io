@@ -1,6 +1,6 @@
 ---
 title: "Finite Volume CFD"
-excerpt: "Describe past cfd projects in marine hydrodynamics and multiphase 1<br/><img src='/images/500x300.png'>"
+excerpt: "Describe past cfd projects in marine hydrodynamics and multiphase 1<br/><img src='/images/cp_1.png'>"
 collection: portfolio
 ---
 
