@@ -29,12 +29,22 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C++, MPI, OpenMP
+  * Matlab
+  * Python
+  * Julia
+  * FORTRAN
+* CAD
+  * CATIA
+  * FreeCAD
+* Computational
+  * Finite volume CFD - OpenFOAM, StarCCM+, FLUENT, ShipFlow
+  * Smoothed particle Hydrodynamics - DualSPHysics
+  * Discrete flow - SPARTA (DSMC), LAMPPS (MD)
+  * Finite element analysis - Comsol, ABACUS, ANSYS
+  * pre/post processing - Paraview, ICEM-CFD, ANSA, Meshlab, Blender
+ 
 
 Publications
 ======
@@ -56,4 +66,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of NTHS (Nordens Tekniska Hogskolors Skeppsbyggare) congress organizing committee 2014.
+* Member, SRM Aerospace Engineers Association (2009-2012).
+
