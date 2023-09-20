@@ -1,5 +1,5 @@
 ---
-title: "An Investigation on ITTC 78 Scaling Method for Unconvential Propellers"
+title: "An Investigation on ITTC 78 Scaling Method for Unconventional Propellers"
 collection: publications
 permalink: /publication/2016-09-27-paper-title-number-3
 excerpt: 'Proceedings of 12th International Conference on Hydrodynamics, ICHD 2016'
