@@ -17,15 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - Present: Research Fellow (DASHH)
+  * DESY, Hamburg
+  * Duties included: Developing advanced simulation methodologies for optimising aerosol injection systems used for single-particle diffractive imaging. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2021: Research Associate 
+  * University of Applied Sciences, Berlin
+  * Duties included: Numerical investigation of blood flow around a bio-medical probe and prediction of endothelial cell accumulation on the probe using SPH and DEM with stochastic cell wall adhesion dynamics model.
   
 Skills
 ======
