@@ -1,6 +1,6 @@
 ---
 title: "Finite Volume CFD"
-excerpt: "Marine propeller flow simulation (self propulsion condition) 1<br/><img src='/images/cp_1.png'>"
+excerpt: "Marine propeller flow simulation (self propulsion condition) 1<br/><img src='/images/cp_2.png'>"
 collection: portfolio
 ---
 
