@@ -1,6 +1,6 @@
 ---
-title: "P"
-excerpt: "Potential flow / panel methods <br/><img src='/images/500x300.png'>"
+title: "Potential flow / panel methods
+excerpt: " Vortec lattice lifting line methods<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
