@@ -1,6 +1,6 @@
 ---
 title: "Finite Volume CFD"
-excerpt: "Marine propeller flow simulation (self propulsion condition) 1<br/><img src='/images/cp2.png'>"
+excerpt: "Isosurface Q around a marine propeller behind the ship hull colored by velocity magnitude <br/><img src='/images/cp2.png'>"
 collection: portfolio
 ---
 
