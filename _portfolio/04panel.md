@@ -1,5 +1,5 @@
 ---
-title: "Potential flow / panel methods
+title: "Potential flow / panel methods"
 excerpt: " Vortec lattice lifting line methods<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
