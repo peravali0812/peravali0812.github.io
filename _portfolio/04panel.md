@@ -1,6 +1,6 @@
 ---
 title: "Potential flow / panel methods"
-excerpt: " Vortec lattice lifting line methods<br/><img src='/images/500x300.png'>"
+excerpt: " Open water propeller flow simulation using coupled VLM-RANS approach <br/><img src='/images/openwater20.png'>"
 collection: portfolio
 ---
 
