@@ -13,7 +13,7 @@ Education
 ======
 * B.Tech. in Aerospace Engineering, SRM University, Chennai, India, 2012
 * M.S. in Mechanical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2015
-* Ph.D in Fluid Dynamics and High Performance Computing, Helmut-Schmidt University/ University of Federal Armed Forces, Hamburg Germany,
+* Ph.D in Fluid Dynamics and High Performance Computing, University of Federal Armed Forces, Germany,
 
 Work experience
 ======
