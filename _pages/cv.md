@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Background"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
 * M.S. in Mechanical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2015
 * Ph.D in Fluid Dynamics and High Performance Computing, University of Federal Armed Forces, Germany,
 
-Work experience
+Research experience
 ======
 * 2021 - Present: Research Fellow (DASHH)
   * DESY, Hamburg, Germany
@@ -32,12 +32,7 @@ Work experience
 * 2015 - 2016: Master Thesis/ Researcher
   * SSPA Sweden AB, Gothenburg, Sweden
   * Duties Included:  Open-source mesh development and detailed CFD analysis of unconventional marine propellers (model and full scale) using OpenFOAM for investigating the ITTC 78 scaling method.
- 
-* 2012 - 2013: GET
-  * Larsen and Toubro, Chennai, India
-  * Graduate engineer 
- 
-* Research interships.... drdo volvo....
+
   
 Skills
 ======
@@ -63,7 +58,7 @@ Skills
   * Operating system: Windows, Linux
   * Doc: MS/Libre office, Latex
 
-Projects
+<!--Projects
 ======
 
 Publications
@@ -83,11 +78,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 Awards/Scholarships/Fellowships
 ======
 * Helmhotlz, DASHH - 2021
-* IBB - 2019
 * EU Marie-Curie - 2016
 * Rolf Sorman's fund (Research during Masters degree)- 2015
 * IPOET scholarship (Master degree)- 2013
