@@ -2,7 +2,7 @@
 title: "Accuracy and Performance Evaluation of Low Density Internal and External Flows using CFD and DSMC"
 collection: publications
 permalink: /publication/2024-01-24-paper-title-number-4
-excerpt: 'submitted Computers and Fluids (under peer review)'
+excerpt: 'submitted to J.Computers and Fluids (under peer review)'
 date: 2024-01-24
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2401.13344'
