@@ -17,7 +17,7 @@ I firmly believe in open science and constantly working to intergrate opensource
 
 News
 ------
-
+* March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany.
 
 Contact
 ------
