@@ -17,8 +17,8 @@ I firmly believe in open science and constantly working to intergrate opensource
 
 News
 ------
-* <font size="1">September 2023 - Presented a hybrid CFD-DSMC methodology at Direct Simulation Monte Carlo (DSMC) conference held in Santa Fe, New Mexico, USA. </font>
-* March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany.
+* <font size="2">September 2023 - Presented a hybrid CFD-DSMC methodology at Direct Simulation Monte Carlo (DSMC) conference held in Santa Fe, New Mexico, USA. </font>
+* <font size="2">March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany. </font>
 
 Contact
 ------
