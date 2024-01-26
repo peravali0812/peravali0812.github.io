@@ -19,7 +19,7 @@ News
 ------
 * <font size="2">September 2023 - Presented a hybrid CFD-DSMC methodology at Direct Simulation Monte Carlo (DSMC) conference held in Santa Fe, New Mexico, USA. </font>
 * <font size="2">March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany. </font>
-* <font size="2">February 2022 - Featured in a podcast interview - [listen here](https://thosespacepeople.transistor.fm/23)
+* <font size="2">February 2022 - Featured in a podcast interview - [listen here](https://thosespacepeople.transistor.fm/23) </font>
 
 Contact
 ------
