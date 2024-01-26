@@ -18,7 +18,7 @@ Education
 Research experience
 ======
 * 2021 - Present: Research Fellow (DASHH)
-  * DESY, Hamburg, Germany
+  * Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany
   * Duties included: Developing advanced simulation methodologies for optimising aerosol injection systems used for single-particle diffractive imaging. 
 
 * 2019 - 2021: Research Associate 
