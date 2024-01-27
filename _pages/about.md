@@ -20,7 +20,7 @@ News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
 
-<li>Feburary 01, 2024 - Invited talk at RGD NextGen(Rarefied gas dynamics community)</li>li
+<li>Feburary 01, 2024 - Invited talk at RGD NextGen(Rarefied gas dynamics community)</li>
   
 <li>January 24, 2024 - Poster presentation at DESY photon science users meeting and Europen XFEL users meeting, Hamburg, Germany</li> 
 
