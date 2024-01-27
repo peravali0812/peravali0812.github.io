@@ -28,8 +28,8 @@ News
 
 <li>March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany.</li>
 
-<li class='link'><a href = "http://www.dreamincode.net/" 
-                   target="_blank">Dream in Code</a></li>
+<li>February 2022 - Featured in a podcast intervirw </li> - <p class='link'><a href = "https://thosespacepeople.transistor.fm/23" 
+                   target="_blank">Listen here</a></p>
 </ul>
 </div>
 
