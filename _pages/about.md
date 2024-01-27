@@ -17,12 +17,12 @@ I firmly believe in open science and constantly working to intergrate opensource
 
 News
 ------
-<div style="max-height: 200px; overflow-y: auto;">
-* <font size="2">Feburary 01, 2024 - Invited talk at RGD NextGen(Rarefied gas dynamics community)</font> 
-* <font size="2">January 24, 2024 - Poster presentation at DESY photon science users meeting and Europen XFEL users meeting, Hamburg, Germany </font> 
-* <font size="2">September 2023 - Presented a hybrid CFD-DSMC methodology at Direct Simulation Monte Carlo (DSMC) conference held in Santa Fe, New Mexico, USA. </font>
-* <font size="2">March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany. </font>
-* <font size="2">February 2022 - Featured in a podcast interview -</font> [<font size ="2">listen here</font>](https://thosespacepeople.transistor.fm/23) 
+<div style="max-height: 100px; overflow-y: auto;">
+- <font size="2">Feburary 01, 2024 - Invited talk at RGD NextGen(Rarefied gas dynamics community)</font> 
+- <font size="2">January 24, 2024 - Poster presentation at DESY photon science users meeting and Europen XFEL users meeting, Hamburg, Germany </font> 
+- <font size="2">September 2023 - Presented a hybrid CFD-DSMC methodology at Direct Simulation Monte Carlo (DSMC) conference held in Santa Fe, New Mexico, USA. </font>
+- <font size="2">March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany. </font>
+- <font size="2">February 2022 - Featured in a podcast interview -</font> [<font size ="2">listen here</font>](https://thosespacepeople.transistor.fm/23) 
 </div>
 
 Contact
