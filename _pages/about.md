@@ -28,7 +28,7 @@ News
 
 <li>March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany.</li>
 
-<li>February 2022 - Featured in a podcast interview</li> - [listen here](https://thosespacepeople.transistor.fm/23)
+<li>February 2022 - Featured in a podcast interview</li> [listen here](https://thosespacepeople.transistor.fm/23)
 </ul>
 </div>
 
