@@ -18,16 +18,18 @@ I firmly believe in open science and constantly working to intergrate opensource
 News
 ------
 <div style="max-height: 200px; overflow-y: auto;">
+<ul>
 
-- Feburary 01, 2024 - Invited talk at RGD NextGen(Rarefied gas dynamics community)
+<li>Feburary 01, 2024 - Invited talk at RGD NextGen(Rarefied gas dynamics community)</li>li
   
-- January 24, 2024 - Poster presentation at DESY photon science users meeting and Europen XFEL users meeting, Hamburg, Germany 
+<li>January 24, 2024 - Poster presentation at DESY photon science users meeting and Europen XFEL users meeting, Hamburg, Germany</li> 
 
-- September 2023 - Presented a hybrid CFD-DSMC methodology at Direct Simulation Monte Carlo (DSMC) conference held in Santa Fe, New Mexico, USA.
+<li>September 2023 - Presented a hybrid CFD-DSMC methodology at Direct Simulation Monte Carlo (DSMC) conference held in Santa Fe, New Mexico, USA.</li>
 
-- March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany.
+<li>March 2023 - Presented research on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Dresden, Germany.</li>
 
-- February 2022 - Featured in a podcast interview - [listen here](https://thosespacepeople.transistor.fm/23)
+<li>February 2022 - Featured in a podcast interview - [listen here](https://thosespacepeople.transistor.fm/23)</li>
+</ul>
 </div>
 
 Contact
