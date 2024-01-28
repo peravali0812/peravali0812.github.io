@@ -11,7 +11,6 @@ author_profile: true
 <p float="left">
   <img src="/images/hella_medal.jpeg" width="300" />
   <img src="/images/hella_run.jpeg" width="300" />
-  <img src="/images/hella_run2.jpeg" width="300" />
   <img src="/images/hella_layout.jpeg" width="300" />
 </p>
 
