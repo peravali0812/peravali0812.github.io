@@ -13,7 +13,7 @@ The boundless worlds of science fiction lure me into captivating stories, offeri
 
 Amidst the challenges of pandemic days, I discovered solace in the rhythmic pattern of long-distance running, where every step becomes a journey of self-discovery.
 
-
+Here are some snippets:
 
 ### 28th Hella hamburg halbmarathon 2022 
 <p float="left">
