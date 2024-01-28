@@ -17,3 +17,9 @@ author_profile: true
 
 
 ### Chess (Schachbundesliga Berlin and Grenke chess classic 2019)
+
+<p float="left">
+  <img src="/schach_berlin.jpeg" width="300" />
+  <img src="/images/grenke.jpeg" width="300" />
+  <img src="/images/vishy.jpeg" width="300" />
+</p>
