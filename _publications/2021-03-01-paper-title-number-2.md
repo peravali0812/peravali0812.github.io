@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-03-01-paper-title-number-2
 excerpt: 'Currently non peer reviewed manuscript'
 date: 2021-03-01
-//  venue: ''
+venue: ''
 paperurl: ''
 //  citation: ''
 ---
