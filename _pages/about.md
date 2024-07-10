@@ -20,6 +20,8 @@ News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
 
+<li>July 10, 2024 - Talk, JuliaCon2024, Eindhoven, Netherlands.</li>
+
 <li>March 19, 2024 - Presentation and Poster on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Berlin, Germany.</li>
 
 <li>Feburary 01, 2024 - Invited talk at RGD NextGen(Rarefied gas dynamics community)</li>
