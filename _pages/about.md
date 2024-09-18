@@ -22,7 +22,8 @@ News
 
 <li>July 19, 2024 - Talk, 33rd International Symposium on Rarefied Gas Dynamics, Goettingen, Germany.</li>
 
-<li>July 10, 2024 - Talk, JuliaCon2024, Eindhoven, Netherlands.</li>
+<li>July 10, 2024 - Talk, JuliaCon2024, Eindhoven, Netherlands.<p class='link'><a href = "https://youtu.be/V-VbC4xIq-4" 
+                   target="_blank">Watch here</a></p> </li></li>
 
 <li>March 19, 2024 - Presentation and Poster on vaccum technology at Deutsche Physikalische Gesellschaft, DPG Spring Meeting of the Condensed Matter Section (SKM), Berlin, Germany.</li>
 
