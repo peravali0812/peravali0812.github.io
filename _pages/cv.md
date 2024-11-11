@@ -18,14 +18,14 @@ Education
 Research experience
 ======
 * 2021 - Present: Research Fellow (DASHH)
-  * Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany
+  * Deutsches Elektronen-Synchrotron (DESY) and University of Federal Armed Forces, Hamburg, Germany.
   * Duties included: Developing advanced simulation methodologies for optimising aerosol injection systems used for single-particle diffractive imaging. 
 
 * 2019 - 2021: Research Associate 
   * University of Applied Sciences, Berlin, Germany
   * Duties included: Numerical investigation of blood flow around a bio-medical probe and prediction of endothelial cell accumulation on the probe using SPH and DEM with stochastic cell wall adhesion dynamics model.
  
-* 2016 - 2018: Research Fellow (Marie-Curie)
+* 2016 - 2017: Research Fellow (Marie-Curie)
   * International institute of cavitation research (RR-UTC), University of London, UK 
   * Duties included:  Developing a flash boiling-induced atomization model for conditions relevant to cryogenic fluids injected in rocket engines and to implement the model to the common LES code and perform simulation of the spray for different conditions
  
