@@ -6,8 +6,8 @@ permalink: /publication/2024-10-15-paper-title-number-5
 excerpt: ''
 date: 2024-10-15
 venue: 'Currently under internal review. planned to be submitted to aip:Physics of fluids'
-paperurl: ''
-citation: ''
+paperurl: 'updated soon'
+citation: 'updated soon'
 ---
 
 [Download paper here]()
