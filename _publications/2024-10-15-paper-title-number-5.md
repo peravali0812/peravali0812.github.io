@@ -6,7 +6,7 @@ excerpt: 'Currently under internal review. planned to be submitted to aip:Physic
 date: 2024-10-15
 venue: ''
 paperurl: 'will be updated soon'
-citation: 'will be updated soon'
+citation: ''
 ---
 
 [Download paper here]()
