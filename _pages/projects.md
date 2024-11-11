@@ -15,7 +15,7 @@ redirect_from:
 
 Ongoing
 ======
-* Hybrid continuum-discrete simulation methodology
+* CMInject: A multi-physics framework for particle injection trajectory simulations for Single particle diffractive imaging experiments 
 
 Completed
 ======
