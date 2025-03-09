@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm <ins>Surya</ins> Kiran , Research Fellow at [Deutsches Elektronen-Synchrotron](https://www.desy.de/) and [Universty of Federal Armed Forces](https://www.hsu-hh.de/en/), Hamburg, Germany. I am a multidisciplinary engineer/scientist with background in Aerospace/Mechanical/Marine Engineering. My experience includes working with high fidelity CFD simulations and modeling (finite volumes method) and also lagrangian based methods such as Smoothed Particle Hydrodynamics (SPH). My current research focuses on developing advanced simulation methodologies to resolve fluid flows having wide range of flow states (e.g., continuum and free molecular flows) and its interaction with nano particles. This involves bundling different multiscale and multiphysics simulation methodologies supported by high-performance computing and data science methods. 
+Hi! I'm <ins>Surya</ins> Kiran , Research Fellow at [Deutsches Elektronen-Synchrotron](https://www.desy.de/) and [Universty of Federal Armed Forces](https://www.hsu-hh.de/en/), Hamburg, Germany. 
 
-I firmly believe in open science and constantly working to intergrate opensource solutions in to my workflow. I created this website to communicate science and research. 
+I am a multidisciplinary engineer and scientist with a background in Aerospace, Mechanical, and Marine Engineering. My expertise includes high-fidelity CFD simulations using the finite volume method (FVM), as well as particle-based methods such as Direct Simulation Monte Carlo (DSMC), Molecular Dynamics (MD), and Smoothed Particle Hydrodynamics (SPH).
 
-⚠️ ⚠️ ⚠️ This site is under construction and I am still working on it, but it is already online. 
+Currently, my research focuses on developing advanced simulation methodologies to model fluid flows across a wide range of flow regimes (e.g., continuum to free molecular flows) and their interaction with nanoparticles. This involves integrating multiscale and multiphysics simulation approaches with high-performance computing (HPC) and data science techniques to enhance accuracy and computational efficiency.
+
+I am a strong advocate of open science and continuously strive to incorporate open-source solutions into my workflow. I created this website as a platform to share and communicate science and research with the broader community.
+
+⚠️ This site is still under construction, but it's already online! Stay tuned for updates.
 
 
 News
