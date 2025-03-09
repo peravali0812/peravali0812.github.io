@@ -3,7 +3,7 @@ title: "Exploitation of continuum and kinetic theory approaches for the simulati
 collection: publications
 permalink: /publication/2025-01-28-paper-title-number-6
 excerpt: 'Proceedings of 33rd International symposium on rarefied gas dynamics'
-date: 2025-01-28
+date: 2025-03-28
 venue: 'SpringerNature'
 paperurl: ''
 citation: 'to be updated'
