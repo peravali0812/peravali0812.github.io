@@ -15,7 +15,7 @@ redirect_from:
 
 Ongoing
 ======
-* CMInject: A multi-physics framework for particle injection trajectory simulations for Single particle diffractive imaging experiments 
+* [Advanced Simulation Methodology for Optimizing Aerodynamic Lenses used for Single-Particle Diffractive Imaging, 2025](https://www.dashh.org/index_eng.html) 
 
 Completed
 ======
