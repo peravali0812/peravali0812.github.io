@@ -3,10 +3,10 @@ title: "An improved simulation methodology for nano-particle injection through a
 collection: publications
 permalink: /publication/2024-10-15-paper-title-number-5
 excerpt: ''
-date: 2025-03-15
+date: 2025-03-26
 venue: 'Physics of Fluids'
-paperurl: 'https://arxiv.org/abs/2501.14467'
-citation: 'Surya Kiran Peravali, Amit K. Samanta, Muhamed Amin, Philipp Neumann, Jochen Küpper, Michael Breuer, "An improved numerical simulation methodology for nanoparticle injection through aerodynamic lens systems," arXiv preprint (2025), arXiv:2501.14467 [physics.flu-dyn], https://arxiv.org/abs/2501.14467.'
+paperurl: 'https://doi.org/10.1063/5.0260295'
+citation: 'Surya Kiran Peravali, Amit K. Samanta, Muhamed Amin, Philipp Neumann, Jochen Küpper, Michael Breuer, "An improved simulation methodology for nanoparticle injection through aerodynamic lens systems," Physics of fluids 37, 033380 (2025).'
 ---
 
-[Download paper here](https://arxiv.org/abs/2501.14467)
+[Download paper here](https://doi.org/10.1063/5.0260295)
