@@ -24,7 +24,7 @@ News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
 
-<li>July 10, 2024 - New paper, Nanoparticle trajectory simulation in multiscale regimes, published in Physics of Fluids.<p class='link'><a href = "https://doi.org/10.1063/5.0260295" 
+<li>March 26, 2025 - New paper, Nanoparticle trajectory simulation in multiscale regimes, published in Physics of Fluids.<p class='link'><a href = "https://doi.org/10.1063/5.0260295" 
                    target="_blank">Paper link</a></p> </li>
 
 <li>July 19, 2024 - Talk, 33rd International Symposium on Rarefied Gas Dynamics, Goettingen, Germany.</li>
