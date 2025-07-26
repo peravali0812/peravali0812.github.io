@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Surya Kiran Peravali"
+  name             : "Dr.-Ing. Surya Kiran Peravali"
   avatar           : "profile_prg.jpg"
-  bio              : "Researcher in Numerical Fluid Flows, Multiscale Modelling and High Performance Computing"
+  bio              : "Researcher in Numerical Fluid Flows, Multiphysics Modelling and High Performance Computing"
   location         : "Hamburg, Germany"
   employer         : "DESY"
   pubmed           : 
