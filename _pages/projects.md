@@ -15,7 +15,7 @@ redirect_from:
 
 Ongoing
 ======
-* [Advanced Simulation Methodology for Optimizing Aerodynamic Lenses used for Single-Particle Diffractive Imaging, 2025](https://www.dashh.org/index_eng.html) 
+* Advanced Simulation Methodology for Optimizing Aerodynamic Lenses used for Single-Particle Diffractive Imaging, 2025
 
 Completed
 ======
