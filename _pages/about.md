@@ -49,7 +49,7 @@ News
 
 Contact
 ------
-Surya Kiran Peravali
+Dr.-Ing. Surya Kiran Peravali
 
 <address>
   Center for Free-Electron Laser Science (CFEL)<br /> Deutsches Elektronen-Synchrotron DESY<br /> Notkestrasse 85 (building 99, room O3.005)<br/>22607 Hamburg, Germany
