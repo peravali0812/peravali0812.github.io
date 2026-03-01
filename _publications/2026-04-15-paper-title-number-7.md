@@ -3,7 +3,7 @@ title: "Aerodynamic-lens-stack injector with cryogenic cooling: Toward efficient
 collection: publications
 permalink: /publication/2025-05-15-paper-title-number-7
 excerpt: 'manuscript in preparation'
-date: 2025-06-15
+date: 2026-04-15
 venue: ''
 paperurl: ''
 citation: 'will be updated soon'
