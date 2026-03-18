@@ -11,4 +11,4 @@ citation: 'Peravali, S.K et al.,. (2016). &quot;An Investigation on ITTC 78 Scal
 
 [Download paper here](https://research.chalmers.se/en/publication/243761)
 
-Recommended citation: Peravali, S.K,. (2015). &quot;An Investigation on ITTC 78 Scaling Method for Unconventional Propellers.&quot; <i>International Conference on Hydrodynamics</i>. September,2016.
+Recommended citation: Peravali, S.K,. (2015). &quot;An Investigation on ITTC 78 Scaling Method for Unconventional Propellers.&quot; <i>International Conference on Hydrodynamics</i>. 18-23 September,2016,  Egmond aan Zee, The Netherlands.
