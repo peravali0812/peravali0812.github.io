@@ -19,7 +19,7 @@ Ongoing
 
 Completed
 ======
-* [Numerical investigation of Endothelial cell binding over a bio-medical probe subjected to shear flow”. 2021](https://prof.bht-berlin.de/villwock/forschung-und-drittmittelprojekte/zellsonde)
+* Numerical investigation of Endothelial cell binding over a bio-medical probe subjected to shear flow”. 2021 - [More info](https://prof.bht-berlin.de/villwock/forschung-und-drittmittelprojekte/zellsonde)
     * Institution: Berliner hochschule für technik, Berlin, Germany.
     * P.I: Prof. Joachim Villwock
     
